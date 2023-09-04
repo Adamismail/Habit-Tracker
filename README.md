@@ -78,6 +78,6 @@ Habit Tracker
     |--> index.js
     |--> package-lock.json
     |-->package.json
-    
+    ...
 
 
